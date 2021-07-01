@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilnarang2001
 - 👀 I’m interested in ... Open source developement projects
-- 🌱 I’m currently learning ... Julia, python, ts
+- 🌱 I’m currently learning ... Julia, python, C, CPP
 - 📫 How to reach me ... nikhilnarang2001@gmail.com
 
 <!---
